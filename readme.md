@@ -13,3 +13,10 @@ If you find it useful, please cite our article:
   publisher={IEEE}
 }
 ```
+
+---
+
+The complete XJTU battery dataset can be found in: [XJTU battery dataset](https://wang-fujin.github.io/).
+The data used in this paper is only a small part of it.
+
+
