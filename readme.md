@@ -1,5 +1,8 @@
 This code is for our paper: [Inherently Interpretable Physics-Informed Neural Network for Battery Modeling and Prognosis](https://ieeexplore.ieee.org/document/10310297)
 
+![flow chart](./overall_structure.png)
+
+
 If you find it useful, please cite our article:
 ```
 @article{wang2023inherently,
